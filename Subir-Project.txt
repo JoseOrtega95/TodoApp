@@ -1,0 +1,11 @@
+Lo primero que hacemos es que en consola corremos el codigo npm run build
+para que se compile todo el programa por que el navegador no comprende JSX.
+Todo queda guardado en la carpeta DIS.
+
+Para provar se corremos en la consola npm run preview
+
+Vamos a la pagina de netlify creamos una cuenta y vamos a la pestaña de sitios
+y le damos en deploy manual y arrastramos el DIS a ese lugar y listones patacones
+
+Por ultimo podemos ir a domain Settings y cambiarle el dominio o nombre del 
+dominio es custom domains en options. 
